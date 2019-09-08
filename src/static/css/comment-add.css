@@ -1,0 +1,26 @@
+.comment-add {
+    margin-right: 20px;
+}
+.comment-add input {
+    margin: 10px 0 20px 0;
+    border: 0;
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    text-indent: 10px;
+}
+.comment-add .content {
+    margin-bottom: 10px;
+}
+.comment-add textarea {
+    width: 100%;
+}
+.comment-add button{
+    margin-top: 10px;
+    float: right;
+    background-color: transparent;
+    padding: 10px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+}

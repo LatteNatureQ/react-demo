@@ -1,0 +1,19 @@
+.coment-item {
+    padding: 20px;
+    position: relative;
+}
+.coment-item li {
+    position: relative;
+    border-bottom: 1px solid #ccc;
+    padding: 20px;
+}
+.coment-item button {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #3d80bb;
+    border: 1px solid #ccc;
+    background-color: transparent;
+    padding: 5px;
+}
